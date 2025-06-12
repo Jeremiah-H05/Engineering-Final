@@ -1,7 +1,7 @@
 #include <Adafruit_CircuitPlayground.h>
 #include <math.h>
 
-//  CONFIGuration 
+//  CONFIGURATION 
 const int maxDifficulty = 6;
 const int minDifficulty = 1;
 const int touchPins[7] = {A1, A2, A3, A4, A5, A6, A7};
