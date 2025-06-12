@@ -6,6 +6,8 @@ between 1 and 6 games testing where the bombs are. If they manage to avoid all t
 they'll get sent to the roulette wheel where they'll choose a color based on the extreme
 light level they choose and if it lands on their color, the board will flash bright lights
 and play a happy tune but if it doesn't, it'll play a sad tune and fade out red. 
+
+
   For the inputs and outputs, the left and right button decrease and increase the difficulty
 level at the start and hitting both will start the game. The touch sensors will be used to see 
 which place they choose to test and will be triggered when they go below a value of 50 (just 
